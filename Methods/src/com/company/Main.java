@@ -20,15 +20,16 @@ public class Main {
 
     public static int calculateHighScorePosition (int PlayerScore) {
 
+        int position = 4;
+
         if (PlayerScore >= 1000) {
-            return 1;
-        } else if (PlayerScore >= 500 && PlayerScore < 1000) {
-            return 2;
-        } else if(PlayerScore > 100 && PlayerScore < 500) {
-            return 3;
-        } else {
-            return 4;
+            position = 1;
+        } else if (PlayerScore >= 500) {
+            position = 2;
+        } else if(PlayerScore > 100) {
+            position = 3;
         }
+        return position;
     }
 
     public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
