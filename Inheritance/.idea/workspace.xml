@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e182c7-4a94-4250-b0fa-40b3fb9f2c2c" name="Default Changelist" comment="" />
+    <list default="true" id="a960d5b9-7a35-41bb-9876-14a90da40503" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +35,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1i8vPS3TR08FTcyLNb1LaKYrfnj" />
+  <component name="ProjectId" id="1iBJaurhZSmAhbqxiRsCxwI1F77" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ClassesPartOne" />
+      <module name="Inheritance" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -64,11 +61,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63e182c7-4a94-4250-b0fa-40b3fb9f2c2c" name="Default Changelist" comment="" />
-      <created>1601302008801</created>
+      <changelist id="a960d5b9-7a35-41bb-9876-14a90da40503" name="Default Changelist" comment="" />
+      <created>1601375119022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601302008801</updated>
+      <updated>1601375119022</updated>
     </task>
     <servers />
   </component>
@@ -85,21 +82,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601364735895">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1601380085293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601364735895" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601364735895">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601380085293" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601377953538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601364735895" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601364735895">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601377953538" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601377953538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601364735895" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601364735895">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601377953538" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601377953537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601364735895" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601377953537" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601377953538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/2.-1080.1920.1040/-1920.-1067.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1601377953538" />
   </component>
 </project>
